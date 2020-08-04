@@ -1,0 +1,101 @@
+,name,album,artist,release_date,length,popularity,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature,valence
+0,The A Team,The A Team,Ed Sheeran,2011-05-01,258588,34,0.678,0.626,0.286,0.0,0.134,-9.933,0.0374,84.954,4,0.366
+1,Breathe Me,Colour The Small One,Sia,2004-01-01,272800,68,0.0364,0.552,0.643,0.74,0.105,-7.36,0.0327,120.012,4,0.212
+2,Falling,Fine Line,Harry Styles,2019-12-13,240133,86,0.839,0.567,0.267,1.46e-06,0.089,-6.502,0.0299,110.011,4,0.0592
+3,Skinny Love,"For Emma, Forever Ago",Bon Iver,2008-05-12,238532,67,0.842,0.592,0.256,2.38e-06,0.088,-14.031,0.0449,76.361,4,0.103
+4,Youth,The Wild Youth EP,Daughter,2012-02-29,251626,0,0.61,0.588,0.477,0.00188,0.122,-12.71,0.0492,150.396,4,0.488
+5,Bruises,Divinely Uninspired To A Hellish Extent,Lewis Capaldi,2019-05-17,220492,84,0.946,0.736,0.308,0.0,0.186,-7.83,0.0677,111.202,4,0.361
+6,Dancing With Your Ghost,Dancing With Your Ghost,Sasha Sloan,2019-06-28,197732,77,0.761,0.629,0.327,2.96e-05,0.103,-8.285,0.029,74.953,4,0.381
+7,comethru,"summer,",Jeremy Zucker,2018-09-28,181613,78,0.607,0.795,0.178,0.0,0.623,-11.991,0.0574,93.982,4,0.608
+8,when the party's over,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Billie Eilish,2019-03-29,196077,86,0.978,0.367,0.111,3.97e-05,0.0897,-14.084,0.0972,82.642,4,0.198
+9,Let It Go,Chaos And The Calm,James Bay,2014-12-15,260533,73,0.818,0.546,0.311,1.65e-05,0.107,-10.396,0.0288,147.464,4,0.246
+10,People Help the People,Birdy (Deluxe Version),Birdy,2011-11-04,256236,58,0.778,0.407,0.308,1.46e-05,0.092,-9.001,0.0296,73.254,3,0.153
+11,Transatlanticism,Transatlanticism,Death Cab for Cutie,2003-10-15,475093,0,0.393,0.443,0.466,0.647,0.165,-9.209,0.0302,127.493,4,0.19
+12,If You Think It's Love,Cheap Queen,King Princess,2019-10-25,203946,57,0.807,0.432,0.34,0.0,0.0864,-7.977,0.0824,135.172,4,0.449
+13,The Night We Met,Strange Trails,Lord Huron,2015-04-06,208211,19,0.969,0.443,0.369,0.277,0.638,-9.514,0.0441,174.107,3,0.0989
+14,Bird,Writing of Blues and Yellows (Deluxe Version),Billie Marten,2016-09-23,220640,55,0.988,0.235,0.187,0.00197,0.106,-12.754,0.0347,85.962,4,0.118
+15,Fix You,X&Y,Coldplay,2005-06-07,295533,81,0.164,0.209,0.417,0.00196,0.113,-8.74,0.0338,138.178,4,0.124
+16,Surrender,Surrender,Natalie Taylor,2019-10-29,183103,84,0.8,0.39,0.448,0.182,0.107,-8.57,0.0276,144.89,5,0.077
+17,Falling Asleep,Falling Asleep,Tiz McNamara,2019-10-25,202400,52,0.899,0.537,0.201,0.00163,0.077,-12.948,0.033,134.087,4,0.196
+18,"Murder Song (5, 4, 3, 2, 1) - Acoustic",All My Demons Greeting Me As A Friend (Deluxe),AURORA,2016-03-11,218666,55,0.902,0.398,0.0887,1.76e-06,0.0873,-13.683,0.0334,74.797,4,0.356
+19,No Woman,Light Upon the Lake,Whitney,2016-06-03,237973,66,0.893,0.581,0.4,0.576,0.161,-8.739,0.0291,112.331,4,0.433
+20,Before You Go,Divinely Uninspired To A Hellish Extent (Extended Edition),Lewis Capaldi,2019-11-22,215106,84,0.604,0.459,0.575,0.0,0.0885,-4.858,0.0573,111.881,4,0.183
+21,Love Is A Losing Game,Back To Black,Amy Winehouse,2006-01-01,154160,0,0.317,0.48,0.561,0.00641,0.184,-5.874,0.027,164.791,4,0.541
+22,I Can't Help (with Sarcastic Sounds),I Can't Help (with Sarcastic Sounds),Shoffy,2020-02-07,121250,49,0.393,0.714,0.4,0.000718,0.109,-8.264,0.0618,81.974,4,0.318
+23,Dancing On My Own,Dancing On My Own,Calum Scott,2016-06-03,260004,10,0.851,0.608,0.174,1.92e-05,0.0855,-8.796,0.0332,112.175,4,0.193
+24,K.,K.,Rosie Carney,2018-01-05,269000,58,0.962,0.348,0.226,0.00483,0.135,-10.918,0.0386,129.251,3,0.173
+25,Wish You Were Here - 2011 Remastered Version,Wish You Were Here [2011 - Remaster] (2011 Remastered Version),Pink Floyd,1975-09-12,334743,0,0.735,0.481,0.262,0.0114,0.832,-15.73,0.0414,122.883,4,0.375
+26,Older Than I Am,Three. Two. One.,Lennon Stella,2020-04-24,181533,66,0.891,0.44,0.306,0.0,0.103,-8.947,0.0363,117.288,4,0.201
+27,Easily,A Song For Every Moon,Bruno Major,2017-08-31,210240,76,0.491,0.772,0.256,0.00612,0.144,-8.545,0.0481,118.902,3,0.357
+28,What's Good,What's Good,Fenne Lily,2017-03-17,216875,49,0.935,0.542,0.0957,6.4e-06,0.182,-14.518,0.0404,134.739,4,0.259
+29,Should Have Known Better,Carrie & Lowell,Sufjan Stevens,2015-03-31,307697,65,0.979,0.571,0.172,0.275,0.124,-20.7,0.0318,90.972,4,0.297
+30,lovely (with Khalid),lovely (with Khalid),Billie Eilish,2018-04-19,200185,88,0.934,0.351,0.296,0.0,0.095,-10.109,0.0333,115.284,4,0.12
+31,Sad Corny Fuck,Hold It Together,JP Saxe,2020-02-07,220520,55,0.835,0.604,0.179,0.0,0.162,-15.383,0.0339,124.982,3,0.391
+32,pass you by,the voicenotes,Alaina Castillo,2020-04-24,245945,60,0.892,0.51,0.355,0.0,0.133,-6.883,0.0287,141.796,4,0.453
+33,To Build A Home,Ma Fleur,The Cinematic Orchestra,2007-05-07,371320,72,0.885,0.264,0.122,0.349,0.094,-15.399,0.0349,148.658,4,0.0735
+34,Wish I Was Better,Wish I Was Better,Kina,2020-04-10,140571,70,0.747,0.732,0.304,6.13e-05,0.143,-13.086,0.111,139.965,4,0.185
+35,Somewhere Only We Know,Somewhere Only We Know,Valentin,2020-05-25,193750,50,0.84,0.472,0.305,0.0,0.142,-11.465,0.0295,165.9,4,0.584
+36,Angel's Song,Angel's Song,Arlo Parks,2019-11-20,197243,57,0.894,0.693,0.195,0.0325,0.126,-15.278,0.0446,116.725,4,0.315
+37,Consequences,Camila,Camila Cabello,2018-01-12,178466,74,0.889,0.455,0.292,0.0,0.106,-6.792,0.0563,84.339,5,0.43
+38,blue,blue,Kamal.,2020-05-20,184500,58,0.668,0.725,0.258,2.63e-05,0.0955,-14.065,0.255,127.876,3,0.173
+39,"Welcome Home, Son",Ghost,Radical Face,2007-03-02,285320,0,0.743,0.601,0.537,0.732,0.143,-9.464,0.0296,144.994,3,0.394
+40,I Took A Pill In Ibiza,"At Night, Alone.",Mike Posner,2016-05-06,280800,0,0.618,0.636,0.319,1.7e-06,0.125,-10.065,0.0718,74.109,4,0.378
+41,Jealous,Jealous,Labrinth,2014-11-21,287693,79,0.873,0.435,0.155,0.0,0.107,-8.948,0.046,128.532,3,0.0935
+42,Dolerme,Dolerme,ROSALÍA,2020-03-24,143975,68,0.785,0.545,0.478,0.00278,0.123,-7.035,0.0559,173.746,4,0.318
+43,Cold Nights,Cold Nights,Camo Columbo,2020-01-03,189813,51,0.321,0.941,0.421,9.34e-05,0.0967,-7.918,0.0583,107.011,4,0.787
+44,Someone Like You,21,Adele,2011-01-19,285240,79,0.893,0.554,0.321,0.0,0.0996,-8.251,0.028,135.047,4,0.288
+45,Only You,We Were Here,Joshua Radin,2006,149013,55,0.362,0.545,0.255,1.77e-05,0.0841,-14.844,0.0311,98.088,4,0.831
+46,you broke me first,you broke me first,Tate McRae,2020-04-17,169265,86,0.786,0.642,0.374,0.0,0.0906,-9.386,0.0545,124.099,4,0.0799
+47,i don't want to watch the world end with someone else,i don't want to watch the world end with someone else,Clinton Kane,2020-05-08,184505,68,0.771,0.535,0.359,0.0,0.111,-9.343,0.0607,154.163,4,0.488
+48,No Time To Die,No Time To Die,Billie Eilish,2020-02-13,242265,82,0.917,0.38,0.219,0.0104,0.0827,-13.273,0.0358,73.537,4,0.0517
+49,Long Way Down,Long Way Down (Deluxe),Tom Odell,2013-06-24,149773,59,0.972,0.367,0.121,0.0322,0.0871,-13.778,0.0335,132.244,4,0.0926
+50,River,Bones,St Woods,2020-05-08,276960,42,0.73,0.304,0.317,0.00519,0.118,-10.52,0.0285,147.83,4,0.0596
+51,Creep,The Best Of,Radiohead,2008-04-07,238640,0,0.0102,0.515,0.43,0.000141,0.129,-9.935,0.0369,91.841,4,0.104
+52,Indigo,Indigo,LEFT.,2019-03-08,196589,49,0.488,0.503,0.504,1.59e-06,0.122,-6.843,0.416,85.39,4,0.67
+53,All of Me,Love In The Future (Expanded Edition),John Legend,2013-08-30,269560,85,0.922,0.422,0.264,0.0,0.132,-7.064,0.0322,119.93,4,0.331
+54,Thirteen Thirty-Five,This Silence Kills,Dillon,2011-11-11,223085,0,0.786,0.67,0.293,0.0,0.215,-10.56,0.0486,66.974,4,0.36
+55,Trying My Best,Trying My Best,Anson Seabra,2019-12-13,222467,68,0.95,0.561,0.0587,0.0,0.0828,-17.819,0.0762,143.027,1,0.342
+56,Still Waiting to Start,"The Sun Will Come up, The Seasons Will Change & The Flowers Will Fall",Nina Nesbitt,2019-11-22,183173,54,0.639,0.615,0.332,0.0,0.15,-10.161,0.0295,125.894,4,0.515
+57,no song without you,no song without you,HONNE,2020-06-12,161536,75,0.463,0.778,0.462,0.583,0.11,-12.729,0.0359,105.45,4,0.817
+58,Oceans,Oceans - EP,Seafret,2015-01-21,216186,61,0.274,0.404,0.48,8.63e-06,0.132,-8.906,0.0303,129.162,3,0.2
+59,Slow It Down,The Lumineers,The Lumineers,2012-01-01,305346,0,0.928,0.423,0.0657,1.4e-06,0.0922,-14.421,0.0386,98.489,3,0.105
+60,Last Time,Last Time,Johnning,2020-05-15,202480,54,0.111,0.628,0.587,0.0,0.156,-5.195,0.0441,140.01,4,0.4
+61,Riverside,Philharmonics,Agnes Obel,2010-10-04,228546,4,0.985,0.648,0.177,0.000353,0.134,-13.474,0.0311,99.101,3,0.236
+62,Dust On The Ground,Flaws,Bombay Bicycle Club,2010-01-01,243752,0,0.757,0.605,0.319,0.00237,0.116,-10.892,0.0306,109.603,4,0.273
+63,cry on airplanes,cry on airplanes,Julian,2020-04-10,226000,40,0.548,0.763,0.372,0.000638,0.116,-7.07,0.0683,85.01,4,0.76
+64,Everybody Hurts,Part Lies Part Heart Part Truth Part Garbage 1982-2011,R.E.M.,2011-11-11,316880,0,0.568,0.282,0.476,0.0185,0.157,-6.524,0.0274,187.604,3,0.186
+65,Cursive,As Long As - EP,Billie Marten,2015-11-13,240400,62,0.935,0.494,0.267,5.58e-05,0.128,-11.54,0.0308,115.117,3,0.166
+66,Fix You,Fix You,Valentin,2019-11-22,240000,47,0.671,0.5,0.185,0.0,0.0827,-13.209,0.0302,140.148,4,0.159
+67,All I Want,The Kodaline EP,Kodaline,2012-09-07,306600,31,0.113,0.189,0.427,0.0923,0.058,-9.08,0.0449,187.212,3,0.158
+68,Goshen,East Harlem,Beirut,2011-06-14,200146,0,0.848,0.284,0.262,0.00483,0.0966,-9.869,0.028,98.66,4,0.107
+69,Dear Diary,Dear Diary,Anthony Ramos,2019-07-19,216933,0,0.587,0.474,0.41,3.97e-06,0.114,-9.373,0.0644,125.085,3,0.37
+70,Dancing With an Astronaut,Dancing With an Astronaut,Ellie Rose,2019-09-27,168141,40,0.487,0.516,0.407,0.0235,0.252,-7.841,0.0283,74.894,4,0.17
+71,Only,Only,RY X,2016-03-04,268455,0,0.906,0.373,0.178,0.558,0.109,-15.52,0.0303,108.605,4,0.0933
+72,Renee's Song,Renee's Song,Bazzi,2020-04-01,130545,73,0.794,0.593,0.229,0.0,0.167,-8.888,0.0307,117.823,4,0.42
+73,Teardrop - Remastered 2006,Bite Size Massive Attack,Massive Attack,2006-01-01,328026,0,0.0204,0.612,0.463,0.653,0.183,-7.653,0.035,76.98,4,0.17
+74,It Takes Me Back,Hopeless Romantics,Emmrose,2020-03-20,142200,40,0.902,0.487,0.111,0.000107,0.35,-11.608,0.0356,87.161,4,0.179
+75,9 Crimes,9,Damien Rice,2006-11-06,217946,60,0.913,0.346,0.139,7.73e-05,0.0934,-15.326,0.0321,136.168,4,0.116
+76,Video Games - Remastered,Born To Die - The Paradise Edition,Lana Del Rey,2012-01-01,281960,68,0.811,0.236,0.249,1e-06,0.087,-9.595,0.0348,72.847,5,0.181
+77,Be My Mistake,A Brief Inquiry Into Online Relationships,The 1975,2018-11-30,256688,41,0.835,0.572,0.155,0.000137,0.0906,-14.405,0.0344,109.923,3,0.0949
+78,Waiting,Skisser,Alice Boman,2013-05-22,184320,0,0.975,0.236,0.33,0.126,0.116,-10.085,0.0325,86.546,4,0.0827
+79,Simple Song,The Boy Who Cried Wolf,Passenger,2017-07-28,228480,62,0.616,0.631,0.402,0.0114,0.0892,-11.125,0.0286,78.0,4,0.598
+80,Stay,Stay,Gracie Abrams,2019-11-21,177152,67,0.883,0.618,0.37,0.0,0.123,-10.5,0.0543,114.26,4,0.433
+81,Losing You,Human,Aquilo,2014-12-08,205859,50,0.63,0.383,0.446,0.0,0.0946,-8.693,0.0382,77.399,4,0.213
+82,Samson,Begin to Hope (Special Edition),Regina Spektor,2006-06-13,189335,50,0.862,0.49,0.193,9.74e-06,0.113,-9.544,0.0421,89.154,4,0.184
+83,The Funeral,The Road Mix: Music From The Television Series One Tree Hill Vol. 3,Various Artists,2007-04-02,321146,0,0.0143,0.316,0.769,0.0,0.0928,-5.285,0.0422,122.458,4,0.118
+84,Anchor,Anchor,Novo Amor,2015-10-23,256282,0,0.755,0.486,0.356,0.861,0.0986,-13.649,0.0318,117.141,4,0.111
+85,London Thunder,London Thunder,Foals,2015-08-24,254426,37,0.641,0.489,0.357,0.333,0.0838,-9.745,0.0259,92.009,4,0.0388
+86,She Kind of Looks Like You,She Kind of Looks Like You,AFTRHOURS,2017-07-21,204241,40,0.632,0.9,0.255,3.91e-05,0.0953,-12.664,0.221,94.978,4,0.483
+87,To The Hilt,To The Hilt,BANKS,2016-09-16,276746,41,0.948,0.327,0.101,0.0,0.0945,-13.949,0.0525,171.734,4,0.0866
+88,Cold Arms,Wilder Mind,Mumford & Sons,2015-05-01,169906,0,0.815,0.431,0.144,1.1e-06,0.124,-12.07,0.039,137.683,4,0.0491
+89,Harvest Love,Harvest Love,Tash Sultana,2018-07-13,365928,41,0.314,0.276,0.251,6.05e-06,0.122,-9.078,0.0295,95.705,4,0.18
+90,Your Turn Now,Your Turn Now,Aaron Smith,2020-07-10,239500,48,0.819,0.634,0.193,0.0,0.113,-9.503,0.0277,95.004,4,0.159
+91,Unintended,Showbiz,Muse,1999,237026,61,0.647,0.487,0.279,0.00185,0.11,-11.586,0.0265,139.362,4,0.162
+92,you were good to me,brent,Jeremy Zucker,2019-05-03,219146,76,0.913,0.561,0.0848,2.62e-05,0.112,-15.099,0.0404,102.128,4,0.206
+93,It's My Fault,It's My Fault,Lolo Zouaï,2020-04-24,195986,54,0.815,0.647,0.235,1.78e-05,0.233,-10.123,0.0389,129.85,4,0.0382
+94,Sinking Man - The Walking Dead Soundtrack,The Walking Dead (AMC’s Original Soundtrack – Vol. 1),Various Artists,2013-01-01,166560,0,0.905,0.684,0.0646,1.86e-05,0.0789,-18.052,0.0522,95.99,3,0.334
+95,Conversation,Conversation,Lucy Rose,2019-01-10,229560,45,0.901,0.242,0.137,0.0105,0.167,-16.332,0.0322,92.454,3,0.0644
+96,The Good in Goodbye (Alternate Version),The Good in Goodbye (Alternate Version),Alexander Wren,2019-10-25,249576,40,0.59,0.709,0.299,0.00292,0.111,-9.001,0.0297,112.984,3,0.423
+97,Such Great Heights,Around The Well,Iron & Wine,2009-05-19,251280,0,0.808,0.61,0.275,0.913,0.403,-10.644,0.028,94.088,4,0.552
+98,Recording 15,Living Water,Shannon Lay,2017-09-22,242000,60,0.956,0.552,0.126,0.0153,0.109,-18.014,0.0306,92.441,4,0.439
+99,Better Than Today,Better Than Today,Rhys Lewis,2019-01-04,230353,61,0.736,0.387,0.234,0.0,0.084,-8.861,0.0373,78.65,4,0.408

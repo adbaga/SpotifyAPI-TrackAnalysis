@@ -1,0 +1,51 @@
+,name,album,artist,release_date,length,popularity,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature,valence
+0,Mama,Blue,Jonas Blue,2018-11-09,184133,73,0.101,0.738,0.794,0.0,0.0533,-4.118,0.0416,104.014,4,0.566
+1,Flames,7,David Guetta,2018-09-14,194680,64,0.0817,0.631,0.649,3.8e-06,0.0934,-5.892,0.0385,93.95,4,0.421
+2,One Kiss (with Dua Lipa),One Kiss (with Dua Lipa),Calvin Harris,2018-04-06,214846,84,0.037,0.791,0.862,2.19e-05,0.0814,-3.24,0.11,123.994,4,0.592
+3,Clarity,Clarity,Zedd,2012-01-01,271426,74,0.0398,0.509,0.781,0.0,0.0749,-3.48,0.072,128.0,4,0.176
+4,Middle,Encore,DJ Snake,2016-08-05,220573,75,0.0141,0.583,0.695,0.0,0.0527,-5.336,0.0423,104.879,4,0.224
+5,Roses (feat. ROZES),Roses (feat. ROZES),The Chainsmokers,2015-06-16,226738,73,0.0435,0.713,0.802,0.00377,0.309,-7.055,0.0561,100.001,4,0.343
+6,One Dance,Views,Drake,2016-05-06,173986,81,0.00776,0.792,0.625,0.0018,0.329,-5.609,0.0536,103.967,4,0.37
+7,Starboy,Starboy,The Weeknd,2016-11-25,230453,84,0.141,0.679,0.587,6.35e-06,0.137,-7.015,0.276,186.003,4,0.486
+8,Cake By The Ocean,DNCE,DNCE,2016-11-18,219146,80,0.152,0.774,0.753,0.0,0.0371,-5.446,0.0517,119.002,4,0.896
+9,Fast Car,Blue,Jonas Blue,2018-11-09,212424,74,0.469,0.672,0.578,0.0,0.312,-6.621,0.0569,113.945,4,0.548
+10,Titanium (feat. Sia),Nothing but the Beat (Ultimate Edition),David Guetta,2012-12-07,245040,79,0.0679,0.604,0.787,0.15,0.127,-3.674,0.103,126.062,4,0.301
+11,How Deep Is Your Love,How Deep Is Your Love,Calvin Harris,2015-07-17,212640,77,0.0389,0.738,0.868,0.00171,0.388,-4.373,0.0731,122.003,4,0.336
+12,Happy Now,Happy Now,Zedd,2018-07-18,207029,76,0.579,0.503,0.741,1.49e-06,0.0712,-5.128,0.047,88.335,3,0.458
+13,Dance To This (feat. Ariana Grande),Bloom,Troye Sivan,2018-08-31,231846,72,0.00632,0.736,0.756,0.00577,0.106,-7.099,0.047,117.016,4,0.712
+14,Closer,Closer,The Chainsmokers,2016-07-29,244960,84,0.414,0.748,0.524,0.0,0.111,-5.599,0.0338,95.01,4,0.661
+15,Strip That Down (feat. Quavo),LP1,Liam Payne,2019-12-06,202061,73,0.199,0.873,0.495,0.0,0.0805,-5.446,0.0518,106.033,4,0.546
+16,Can't Feel My Face,Beauty Behind The Madness,The Weeknd,2015-08-28,213520,79,0.113,0.705,0.769,0.0,0.105,-5.526,0.0425,107.949,4,0.583
+17,Slow Hands,Flicker (Deluxe),Niall Horan,2017-10-20,188174,77,0.011,0.735,0.425,0.0,0.055,-6.648,0.0464,85.896,4,0.848
+18,Problem,My Everything (Deluxe),Ariana Grande,2014-08-25,193920,74,0.0192,0.66,0.805,8.83e-06,0.159,-5.352,0.153,103.008,4,0.625
+19,Classic,MKTO,MKTO,2012,175426,67,0.0383,0.72,0.79,0.0,0.156,-4.686,0.125,102.068,4,0.755
+20,Love Myself,HAIZ,Hailee Steinfeld,2016-02-26,218773,74,0.0026,0.617,0.759,0.0,0.419,-6.785,0.0678,122.924,4,0.324
+21,The Middle,The Middle,Zedd,2018-01-23,184732,82,0.171,0.753,0.657,0.0,0.112,-3.061,0.0449,107.01,4,0.437
+22,Can We Dance,Meet The Vamps,The Vamps,2014-01-01,192710,63,0.00312,0.64,0.82,0.0,0.189,-4.729,0.0464,130.108,4,0.583
+23,Who Says,When The Sun Goes Down,Selena Gomez & The Scene,2011-01-01,195613,75,0.0843,0.682,0.927,0.0,0.149,-2.915,0.0479,101.019,4,0.744
+24,Trust Fund Baby,Trust Fund Baby,Why Don't We,2018-02-01,184460,68,0.0629,0.624,0.785,0.0,0.135,-3.337,0.0498,163.929,4,0.593
+25,Worth It (feat. Kid Ink),Reflection (Deluxe),Fifth Harmony,2015-01-30,224573,75,0.063,0.884,0.765,7.04e-06,0.118,-3.865,0.0882,99.987,4,0.594
+26,Pretty Girl - Cheat Codes X CADE Remix,Pretty Girl (Cheat Codes X CADE Remix),Maggie Lindemann,2017-03-02,193613,78,0.15,0.703,0.868,0.132,0.104,-4.661,0.0291,121.03,4,0.733
+27,Break Free,My Everything (Deluxe),Ariana Grande,2014-08-25,214840,74,0.0064,0.687,0.702,4.35e-05,0.204,-5.324,0.0455,129.956,4,0.284
+28,2002,Speak Your Mind (Deluxe),Anne-Marie,2018-04-27,186986,3,0.0372,0.697,0.683,0.0,0.137,-2.881,0.117,96.133,4,0.603
+29,Really Don't Care,Demi,Demi Lovato,2013-01-01,201600,70,0.123,0.706,0.728,0.0,0.185,-3.602,0.0852,121.017,4,0.851
+30,You Need To Calm Down,You Need To Calm Down,Taylor Swift,2019-06-14,171386,13,0.00838,0.768,0.678,0.0,0.0596,-5.604,0.0505,85.025,4,0.706
+31,All Night,Night & Day (Night Edition),The Vamps,2017-07-14,197640,76,0.0041,0.538,0.804,0.0,0.33,-5.194,0.0358,144.992,4,0.507
+32,Hit The Lights,When The Sun Goes Down,Selena Gomez & The Scene,2011-01-01,194426,59,0.115,0.56,0.88,0.0,0.299,-3.953,0.0567,129.97,4,0.573
+33,Better - SG Lewis x Clairo,Better (SG Lewis x Clairo),SG Lewis,2018-07-06,193761,63,0.05,0.699,0.583,0.00029,0.091,-9.731,0.0357,109.001,4,0.484
+34,BO$$,Reflection (Deluxe),Fifth Harmony,2015-01-30,171413,66,0.00621,0.813,0.872,0.0,0.0498,-5.224,0.107,103.016,4,0.736
+35,Sucker,Happiness Begins,Jonas Brothers,2019-06-07,181026,84,0.0427,0.842,0.734,0.0,0.106,-5.065,0.0588,137.958,4,0.952
+36,The Way,Yours Truly,Ariana Grande,2013-01-01,227026,66,0.294,0.645,0.878,0.0,0.076,-3.208,0.113,82.324,4,0.862
+37,If You're Over Me,If You're Over Me,Years & Years,2018-05-10,189000,65,0.0615,0.647,0.853,0.0,0.062,-4.516,0.0904,103.846,4,0.618
+38,Sorry Not Sorry,Tell Me You Love Me,Demi Lovato,2017-09-29,203760,42,0.0242,0.706,0.643,0.0,0.262,-6.929,0.234,143.931,4,0.885
+39,Lonely Together (feat. Rita Ora),AVĪCI (01),Avicii,2017-08-09,181812,55,0.134,0.655,0.666,2.12e-05,0.0683,-5.309,0.0612,102.977,4,0.272
+40,On Top Of The World,Night Visions,Imagine Dragons,2012-09-04,192280,73,0.0841,0.631,0.924,3.59e-06,0.084,-5.589,0.146,100.045,4,0.755
+41,I Found You,Cardio music 2020,Various Artists,2020-06-12,191495,33,0.033,0.775,0.872,0.0564,0.298,-4.194,0.0469,122.985,4,0.379
+42,We Found Love,Talk That Talk,Rihanna,2011-11-18,215226,74,0.025,0.734,0.766,0.00138,0.108,-4.485,0.0383,127.986,4,0.6
+43,Electricity (with Dua Lipa),Electricity (with Dua Lipa),Silk City,2018-09-06,238173,77,0.0104,0.588,0.67,3.33e-06,0.338,-6.439,0.0473,118.159,4,0.505
+44,HandClap,Fitz and The Tantrums,Fitz and The Tantrums,2016-06-10,193253,65,0.00609,0.636,0.836,0.000157,0.0828,-3.004,0.0427,139.956,4,0.715
+45,Don't You Worry Child - Radio Edit,Don't You Worry Child,Swedish House Mafia,2012-09-14,212862,78,0.112,0.612,0.84,0.0,0.116,-3.145,0.0509,129.042,4,0.438
+46,Get Lucky (feat. Pharrell Williams & Nile Rodgers),Random Access Memories,Daft Punk,2013-05-17,369626,72,0.0378,0.81,0.793,1.82e-06,0.072,-9.404,0.0403,116.049,4,0.863
+47,Cool for the Summer,Confident (Deluxe Edition),Demi Lovato,2015-10-16,214739,65,0.00425,0.583,0.61,0.000105,0.14,-5.639,0.0382,114.06,4,0.336
+48,Boy With Luv (feat. Halsey),MAP OF THE SOUL : PERSONA,BTS,2019-04-12,229773,82,0.0923,0.645,0.862,0.0,0.192,-4.757,0.0965,119.991,4,0.798
+49,Cheerleader - Felix Jaehn Remix Radio Edit,Me 4 U,OMI,2015-10-16,180565,77,0.166,0.782,0.685,1.18e-05,0.16,-6.237,0.0309,118.016,4,0.603

@@ -1,0 +1,101 @@
+,name,album,artist,release_date,length,popularity,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature,valence
+0,Of Dreams To Come,In My Element,Robert Glasper,2007-01-01,491466,29,0.892,0.436,0.432,0.822,0.119,-16.085,0.0543,111.638,3,0.133
+1,Basin Street Blues,The Cat,Jimmy Smith,1998-01-01,239133,0,0.836,0.452,0.445,0.806,0.175,-13.832,0.0378,140.496,1,0.714
+2,Makin' Whoopee - Take 1,Louis Armstrong - Ambassador Of Jazz,Louis Armstrong,2011-01-01,272533,0,0.775,0.591,0.196,0.0,0.541,-16.486,0.112,73.489,4,0.416
+3,Birks' Works,Verve Jazz Masters 10: Dizzy Gillespie,Dizzy Gillespie,1994,297493,0,0.692,0.506,0.443,0.71,0.234,-9.237,0.0606,133.845,4,0.626
+4,Time After Time,The Definitive John Coltrane On Prestige And Riverside,John Coltrane,2010-01-01,465106,0,0.947,0.555,0.237,0.602,0.145,-10.224,0.0388,91.553,4,0.338
+5,I'm Just A Lucky So And So,So Much Guitar! [Original Jazz Classics Remasters],Wes Montgomery,2013-01-01,357440,9,0.886,0.604,0.296,0.663,0.0775,-16.361,0.0386,131.024,4,0.644
+6,My Heart Stood Still,Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster),Chet Baker,2010-01-01,208613,0,0.824,0.631,0.326,0.000789,0.107,-12.448,0.0457,82.062,4,0.502
+7,Reconciliation,Perceptual,Brian Blade,2000-01-01,404333,16,0.912,0.368,0.149,0.901,0.0836,-15.006,0.0325,121.287,4,0.102
+8,Solitude,Duke Ellington Meets Coleman Hawkins,Duke Ellington,1995-01-01,351093,11,0.945,0.453,0.172,0.00241,0.0899,-15.146,0.0415,77.6,4,0.425
+9,Have You Heard,Letter From Home,Pat Metheny Group,1989-01-01,385760,25,0.897,0.532,0.328,0.0727,0.355,-16.273,0.031,151.334,4,0.508
+10,Simply Beautiful,While You Were Sleeping,José James,2014-01-01,293816,0,0.86,0.783,0.349,0.615,0.0956,-11.716,0.0413,118.029,4,0.21
+11,Money,Heartland,Indra Rios-Moore,2015-02-16,249453,18,0.76,0.611,0.293,0.00109,0.116,-11.257,0.0305,106.139,1,0.246
+12,It Never Entered My Mind,The Definitive Miles Davis on Prestige,Miles Davis,2011-01-01,326680,3,0.865,0.454,0.181,5.29e-05,0.129,-12.387,0.0331,115.298,4,0.0963
+13,Swingin' The Blues,Count Basie: Verve Ultimate Cool,Count Basie,2013-01-01,166426,7,0.743,0.753,0.573,0.00276,0.337,-10.189,0.191,112.913,4,0.579
+14,Torrid Zone,Jazz Rock - Verve 50,Various Artists,2013-01-01,520853,4,0.618,0.406,0.422,0.346,0.0946,-11.685,0.0328,123.781,4,0.395
+15,Night Train,Acid Jazz - Verve 50,Various Artists,2012-01-01,405760,0,0.556,0.651,0.556,0.0219,0.101,-11.569,0.0487,132.448,4,0.62
+16,Canadian Sunset,Boss Tenor (Rudy Van Gelder Remaster),Gene Ammons,2006-01-01,322546,0,0.796,0.616,0.293,0.816,0.105,-9.374,0.0493,138.822,4,0.569
+17,Witch Craft,Portrait In Jazz [Keepnews Collection],Bill Evans,1960,277720,0,0.964,0.648,0.131,0.849,0.124,-19.42,0.0496,91.708,4,0.494
+18,"Just You, Just Me - Remastered 1999",After Midnight: The Complete Session,Nat King Cole,1999-01-01,182293,25,0.81,0.493,0.474,0.000342,0.0887,-9.817,0.071,203.464,4,0.712
+19,I Can't Get Started,Lester Young With The Oscar Peterson Trio (Originals International Version),Lester Young,2005-01-01,219000,0,0.988,0.589,0.0247,0.135,0.106,-19.303,0.0726,116.056,4,0.205
+20,You Touch My Brain,My Old Friend: Celebrating George Duke,Al Jarreau,2014-01-01,284626,13,0.22,0.766,0.462,1.96e-05,0.09,-9.052,0.048,85.004,4,0.414
+21,"Love Song From ""Apache""",Coleman Hawkins: Verve Ultimate Cool,Coleman Hawkins,2013-01-01,254360,22,0.984,0.468,0.0327,0.0792,0.099,-16.654,0.0452,122.807,1,0.253
+22,Satin Doll,The Soul Of Ben Webster,Ben Webster,1995-01-01,304133,0,0.905,0.59,0.109,0.243,0.0987,-15.448,0.0579,84.517,4,0.305
+23,Coal Train,The Soul Of Ben Webster,Ben Webster,1995-01-01,250026,0,0.639,0.567,0.369,0.0304,0.0387,-12.927,0.054,109.026,4,0.653
+24,Moment's Notice - Rudy Van Gelder Edition/2003 Digital Remaster/24-Bit Mastering,Blue Train (Expanded Edition),John Coltrane,1958,550760,42,0.731,0.509,0.606,0.00361,0.256,-7.621,0.0365,123.351,4,0.794
+25,Shuffle Montgomery,The Complete Blue Note Recordings Of Herbie Nichols,Herbie Nichols,1997-01-01,253400,5,0.74,0.69,0.261,0.0476,0.108,-18.687,0.0435,93.137,4,0.726
+26,Horace-Scope - 1989 Digital Remaster;The Rudy Van Gelder Edition,Horace Silver Trio (Remastered / Rudy Van Gelder Edition),Horace Silver,1989-01-01,231866,7,0.829,0.533,0.312,0.000455,0.135,-14.627,0.0389,161.919,4,0.402
+27,Every Mornin',GRP 30: The Digital Master Company 30th Anniversary,Various Artists,2012-01-01,268280,0,0.102,0.526,0.728,0.888,0.117,-7.461,0.0359,110.52,4,0.723
+28,Funky Blues,Charlie Parker Jam Session,Charlie Parker,1990-01-01,807306,0,0.856,0.64,0.197,0.675,0.1,-15.186,0.0474,68.249,4,0.479
+29,Drive Time,Best Of David Benoit 1987-1995,David Benoit,1995-01-01,279186,0,0.0285,0.712,0.727,0.876,0.0383,-10.018,0.0296,117.064,4,0.817
+30,Papa‎ Was A Rolling Stone,Afrodeezia,Marcus Miller,2015-03-02,366560,36,0.16,0.859,0.509,0.769,0.0742,-9.901,0.046,122.033,4,0.843
+31,"Sing, Sing, Sing - Live In Japan 1993",Dave Grusin Presents GRP All-Star Big Band Live!,GRP All-Star Big Band,1993-01-01,418960,0,0.244,0.61,0.583,0.237,0.711,-11.796,0.0682,122.137,4,0.348
+32,Mack The Knife - Live In Berlin/1960,Ella Fitzgerald: The Voice Of Jazz,Ella Fitzgerald,2013-01-01,284016,0,0.635,0.611,0.614,0.0,0.339,-9.743,0.0718,140.467,4,0.592
+33,Águas De Março (Waters Of March),Made In Brazil,Eliane Elias,2015-01-01,350373,28,0.854,0.676,0.546,0.11,0.345,-9.721,0.033,153.131,3,0.546
+34,Big Red,Count Basie: Verve Ultimate Cool,Count Basie,2013-01-01,225840,3,0.763,0.598,0.474,0.148,0.086,-12.089,0.051,124.282,4,0.788
+35,That’s All,Hooray For Love,Curtis Stigers,2014-01-01,226493,0,0.893,0.579,0.218,0.0,0.0896,-12.678,0.0502,129.333,4,0.198
+36,My Heart Belongs To Daddy - 1959 Version,Anita O'Day: Verve Ultimate Cool,Anita O'Day,2013-01-01,171600,7,0.882,0.555,0.187,3.42e-06,0.0988,-14.167,0.064,120.255,4,0.337
+37,Cry Me A River,Julie Is Her Name,Julie London,1955-12-01,178573,58,0.964,0.495,0.0688,0.00227,0.112,-14.927,0.0546,120.901,4,0.162
+38,West End Blues,Louis - The Best Of Louis Armstrong,Louis Armstrong,2012-01-01,188986,0,0.988,0.687,0.135,0.862,0.623,-12.978,0.0735,95.217,4,0.563
+39,That's All,The Complete Lester Young Studio Sessions On Verve,Lester Young,1999-01-01,284760,0,0.836,0.561,0.0444,0.0142,0.715,-19.616,0.0465,76.309,4,0.303
+40,Both Sides Now,River: The Joni Letters,Herbie Hancock,2007-01-01,458160,0,0.95,0.368,0.121,0.107,0.103,-15.938,0.0391,93.334,4,0.12
+41,Chelsea Bridge,Gerry Mulligan: Verve Ultimate Cool,Gerry Mulligan,2013-01-01,439066,22,0.956,0.512,0.017,0.511,0.112,-23.122,0.0448,111.237,4,0.114
+42,Things Ain't What They Used To Be,Oscar Peterson Plays The Duke Ellington Song Book,Oscar Peterson,1999-01-01,191293,0,0.973,0.752,0.177,0.74,0.18,-14.715,0.0423,95.965,4,0.301
+43,Light My Fire,Light My Fire,Eliane Elias,2011-01-01,338600,39,0.948,0.497,0.131,0.376,0.0946,-20.065,0.0294,153.789,4,0.127
+44,Time On My Hands - Live (1957/Chicago),At The Opera House,Roy Eldridge,1994-01-01,147226,0,0.924,0.39,0.0601,0.0045,0.969,-22.738,0.0577,83.068,1,0.533
+45,Who Can I Turn To?,Bill Evans: Verve Ultimate Cool,Bill Evans,2013-01-01,291240,3,0.981,0.466,0.215,0.87,0.156,-17.464,0.0352,137.079,4,0.267
+46,Jazz Life,Jazz Life,Mark Winkler,2012-02-14,285000,1,0.757,0.437,0.474,0.000864,0.303,-11.806,0.0515,115.801,4,0.217
+47,I Think It's Going To Rain Today,I Think It's Going To Rain Today,Curtis Stigers,2005-01-01,267480,0,0.961,0.497,0.0478,0.00359,0.0949,-23.028,0.0437,125.725,3,0.189
+48,Spring Will Be A Little Late This Year,Easy Does It,Julie London,1968-01-01,181880,39,0.98,0.31,0.123,0.114,0.18,-18.245,0.0343,79.498,4,0.0874
+49,Crow's Nest,Stan Getz/Cal Tjader Sextet [Original Jazz Classics Remasters],Stan Getz,2011-01-01,502146,7,0.747,0.569,0.405,7.06e-05,0.219,-13.869,0.0377,95.874,4,0.533
+50,With The Wind And The Rain In Your Hair,La Ballade De Stan,Stan Getz,1990-11-20,227333,0,0.878,0.646,0.269,0.0158,0.295,-12.743,0.0505,90.548,4,0.696
+51,Why Was I Born?,Kenny Burrell & John Coltrane (Remastered),Kenny Burrell,1963-05,193733,0,0.992,0.426,0.0364,0.594,0.11,-18.866,0.0364,75.974,4,0.14
+52,New York Minute,The New Standard,Herbie Hancock,1996-02-19,513826,13,0.0128,0.479,0.624,0.432,0.0878,-12.934,0.0334,108.225,4,0.399
+53,Agua De Beber,The Silver Collection - Astrud Gilberto,Astrud Gilberto,1951-01-01,140240,0,0.404,0.65,0.314,0.0,0.0704,-17.972,0.0374,147.807,4,0.858
+54,It's Magic,Far Cry,Eric Dolphy,1989-01-01,339133,0,0.583,0.42,0.203,0.0271,0.0747,-17.858,0.055,72.028,4,0.453
+55,Tangerine,Coleman Hawkins Encounters Ben Webster (Originals International Version),Coleman Hawkins,2005-01-01,320800,0,0.93,0.478,0.2,0.484,0.109,-14.687,0.0408,75.802,4,0.401
+56,No Noise,Bird: The Complete Charlie Parker On Verve,Charlie Parker,1988-01-01,352960,0,0.856,0.517,0.643,0.167,0.221,-9.304,0.0676,97.057,4,0.815
+57,Manhattan (Island Of Lights And Love),The New Standard,Herbie Hancock,1996-02-19,245093,13,0.982,0.424,0.105,0.895,0.133,-18.635,0.0425,110.93,3,0.0494
+58,Black Byrd,Blackbyrd,Donald Byrd,1973-01-01,441040,29,0.402,0.738,0.745,0.0562,0.105,-9.49,0.0531,120.587,4,0.962
+59,Early Autumn,Anita O'Day: Verve Ultimate Cool,Anita O'Day,2013-01-01,189626,8,0.872,0.428,0.118,0.0,0.146,-13.331,0.0373,129.484,4,0.213
+60,Feels So Good - Single Version,A&M Gold Series,Chuck Mangione,1991-01-01,212226,0,0.344,0.608,0.504,0.0171,0.113,-12.431,0.0432,104.801,4,0.602
+61,Lullaby Of Birdland,Mai 1956,Lionel Hampton,2001-01-01,408773,2,0.916,0.575,0.181,0.0217,0.0763,-17.21,0.0436,131.857,4,0.658
+62,Playboy's Theme,Billy May's Big Fat Brass/Bill's Bag,Billy May,2001-01-01,209506,0,0.584,0.602,0.204,0.0331,0.0864,-15.095,0.0293,103.419,4,0.281
+63,"The ""In"" Crowd",Liquid Spirit,Gregory Porter,2014-11-01,217138,28,0.379,0.56,0.593,7.88e-06,0.142,-11.074,0.072,162.455,4,0.674
+64,You Make Me Feel So Young,The Oscar Peterson Trio - A Jazz Portrait Of Frank Sinatra,Oscar Peterson Trio,1985-06-24,157800,0,0.572,0.669,0.314,0.0232,0.2,-14.992,0.0285,138.595,4,0.618
+65,Feeling Good,Nina Simone - Gold (U.S. Version),Nina Simone,2003-01-01,172813,0,0.832,0.375,0.289,0.0,0.12,-11.196,0.0394,84.457,4,0.54
+66,Royal Roost,Cross Culture,Joe Lovano,2013-01-01,354880,3,0.78,0.536,0.426,0.377,0.308,-11.929,0.0525,111.841,4,0.527
+67,If Ever I Would Leave You - Rudy Van Gelder Edition/Digital Remaster/24 Bit Mastering/1998,Una Mas,Kenny Dorham,1963,309266,15,0.98,0.497,0.19,0.908,0.0993,-11.957,0.0342,117.05,4,0.349
+68,Butch And Butch,The Blues And The Abstract Truth,Oliver Nelson,1961,274893,8,0.789,0.58,0.559,0.658,0.129,-10.561,0.0449,103.97,4,0.821
+69,Black Coffee,Ella Fitzgerald: The Voice Of Jazz,Ella Fitzgerald,2013-01-01,208786,0,0.981,0.378,0.0782,0.0,0.134,-13.896,0.0377,77.267,3,0.205
+70,Montono Blues,Bluesy Burrell,Kenny Burrell,1997-01-01,284373,21,0.915,0.701,0.221,0.878,0.129,-16.279,0.0536,78.343,4,0.791
+71,Elijah,A New Perspective (Remastered / Rudy Van Gelder Edition),Donald Byrd,1963,561200,25,0.609,0.437,0.572,0.0,0.237,-9.677,0.031,92.638,4,0.728
+72,Watermelon Man,Then And Now: The Definitive Herbie Hancock,Herbie Hancock,2008-01-01,388106,0,0.142,0.723,0.382,0.0158,0.0642,-12.555,0.0613,147.084,4,0.727
+73,Blues For Mr. Broadway,More Blues And The Abstract Truth,Oliver Nelson,1997-03-10,490400,11,0.928,0.5,0.197,0.744,0.268,-16.625,0.0359,128.42,4,0.286
+74,Beale Street Blues,Duke Ellington And Johnny Hodges Play The Blues Back To Back,Duke Ellington,1963-01-01,455266,0,0.234,0.701,0.113,0.128,0.113,-18.437,0.0411,102.078,4,0.227
+75,Jeep's Blues,Jazz Masters 35,Johnny Hodges,1994-01-01,175426,0,0.988,0.561,0.289,0.893,0.24,-10.174,0.0403,82.636,4,0.606
+76,Tenderly,Verve: The Sound Of America: The Singles Collection,Various Artists,2013-01-01,184920,0,0.891,0.537,0.0672,0.143,0.133,-16.91,0.0721,71.255,4,0.244
+77,Derek's Blues,Verve: The Sound Of America: The Singles Collection,Various Artists,2013-01-01,171333,0,0.627,0.533,0.285,0.00216,0.0677,-12.285,0.0826,142.757,4,0.573
+78,Sing Sing Sing,Verve: The Sound Of America: The Singles Collection,Various Artists,2013-01-01,290773,0,0.493,0.543,0.608,0.714,0.0661,-10.688,0.0305,116.309,4,0.61
+79,Seven Come Eleven - Instrumental,Ring Dem Vibes,Lionel Hampton,2000-01-01,137026,0,0.558,0.488,0.5,4.88e-06,0.115,-13.293,0.0422,117.233,4,0.484
+80,Frame By Frame,Tales From Hollywood,Mark Winkler,1995,265533,0,0.0942,0.649,0.68,0.00135,0.322,-6.893,0.0268,124.661,3,0.625
+81,Bossa Nova,Verve: The Sound Of America: The Singles Collection,Various Artists,2013-01-01,165453,0,0.635,0.729,0.214,0.012,0.0807,-13.733,0.0284,76.027,4,0.64
+82,Django,Django (Remastered),The Modern Jazz Quartet,1987-01-01,423626,0,0.923,0.625,0.19,0.0257,0.1,-16.209,0.0464,110.503,4,0.198
+83,Agnus Dei,Verve: The Sound Of America: The Singles Collection,Various Artists,2013-01-01,260546,0,0.935,0.502,0.234,0.934,0.0873,-17.401,0.035,116.598,4,0.455
+84,Cantaloop - Remix,Blue Note Trip 6: Somethin' Old/Somethin' Blue,Various Artists,2007-01-01,237040,43,0.252,0.854,0.752,0.000214,0.159,-8.793,0.0559,115.976,4,0.963
+85,Another Day,Creating Patterns,4hero,2001,297573,29,0.305,0.62,0.529,3.47e-05,0.222,-10.02,0.112,150.457,4,0.515
+86,What A Diff'rence A Day Made,Ultimate Dinah Washington,Dinah Washington,1997-01-01,149400,0,0.952,0.251,0.117,0.00325,0.122,-18.931,0.0517,49.08,4,0.17
+87,Everybody Loves The Sunshine,Rising Son,Takuya Kuroda,2014-01-01,565502,0,0.04,0.831,0.319,0.256,0.0927,-11.31,0.0584,83.007,4,0.441
+88,Orange Blossoms In Summertime,Flirting With Twilight,Kurt Elling,2001-01-01,393826,19,0.877,0.289,0.157,0.000183,0.126,-13.003,0.0365,71.596,3,0.251
+89,West Coast Blues,Incredible Jazz Guitar (Keepnews Collection),Wes Montgomery,2008-01-01,443853,0,0.932,0.549,0.315,0.126,0.113,-13.011,0.0424,154.64,3,0.682
+90,Que Pasa - Rudy Van Gelder Edition/1999 Digital Remaster,Song For My Father,Horace Silver,1999-01-01,467706,26,0.936,0.625,0.367,0.897,0.112,-11.753,0.0408,140.034,4,0.647
+91,Farewell Bluebird,Landmarks,Brian Blade & The Fellowship Band,2014-01-01,802080,18,0.812,0.446,0.235,0.869,0.109,-17.092,0.0372,114.832,3,0.15
+92,Broad Way Blues,New York Is Now,Ornette Coleman,1968,523760,37,0.471,0.508,0.253,0.246,0.121,-17.518,0.0487,95.527,4,0.579
+93,Cardboard,Bird: The Complete Charlie Parker On Verve,Charlie Parker,1988-01-01,187893,0,0.839,0.577,0.376,0.00101,0.215,-10.377,0.0448,102.478,4,0.921
+94,One For Daddy-O - Remastered,Somethin' Else (Rudy Van Gelder Edition),Cannonball Adderley,1958,505453,50,0.581,0.616,0.434,0.0,0.131,-7.257,0.031,108.467,4,0.404
+95,Footprints - Remastered,Adam's Apple (Rudy Van Gelder Edition),Wayne Shorter,2003-01-01,449773,44,0.768,0.53,0.454,0.116,0.113,-11.19,0.028,135.947,3,0.492
+96,Soul Surge - Remastered 2004/Rudy Van Gelder Edition,Blue Spirits,Freddie Hubbard,2004-01-01,624960,15,0.784,0.498,0.467,0.452,0.094,-10.892,0.0673,75.342,3,0.493
+97,Search For The New Land - Remastered,Search For The New Land (Rudy Van Gelder Edition/2000 Remastered),Lee Morgan,2007-01-01,945493,26,0.785,0.368,0.374,0.00997,0.122,-12.846,0.0374,92.93,4,0.317
+98,Idle Moments - Rudy Van Gelder Edition / Remastered 1999,Idle Moments,Grant Green,1999-01-01,896080,39,0.943,0.6,0.11,0.369,0.098,-17.392,0.0557,115.97,4,0.185
+99,Love For Sale - Rudy Van Gelder Edition; 1999 Digital Remaster; 24 Bit Mastering,Go! (The Rudy Van Gelder Edition),Dexter Gordon,1962,457560,31,0.395,0.568,0.687,0.0,0.0387,-6.442,0.0345,107.728,4,0.778
